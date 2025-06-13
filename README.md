@@ -11,7 +11,7 @@ An addictive incremental clicker game built with React and Vite as part of the C
 🧩 Modular React components with clean state management
 
 🖥️ Preview  
-![Screenshot of the calendar](timetabled/src/assets/Timetabled_screenshot.png)
+![Screenshot of the calendar](Screenshot program.png)
 
 ---
 
